@@ -1,0 +1,23 @@
+{
+  "name": "test-node.js",
+  "version": "0.0.0",
+  "description": "My test node app",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/warnert/test-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warnert/test-node.js/issues"
+  },
+  "homepage": "https://github.com/warnert/test-node.js",
+  "dependencies": {
+    "express": "^4.8.4",
+    "logfmt": "^1.1.2"
+  }
+}
